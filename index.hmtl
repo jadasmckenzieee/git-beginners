@@ -9,5 +9,9 @@
     <link rel="stylesheet" href="style.css">
     </head>
     <body>
+    <h1> lets learn git</h1>
+
+
+    <p>welcome to our website all about git</p>
     </body>
 </html>
